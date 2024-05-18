@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PYTHON_PATH="/usr/bin/python3"
-SCRIPT_PATH="/path/to/your/project/process_data.py"
+SCRIPT_PATH="/home/Venture_data/process_data.py"
 
 # Define the cron job schedule
 CRON_SCHEDULE="0 0 1 * *"
